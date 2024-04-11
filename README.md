@@ -1,2 +1,3 @@
 # sharma_demo
-this is my first gti
+This is my first gti repo
+author - Ravi Sharma
